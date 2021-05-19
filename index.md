@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+# 本マ  プライバシーポリシー
 
-You can use the [editor on GitHub](https://github.com/yudai0308/Honma-Privacy-Plicy/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+スマートフォン向けアプリ 本マ（当アプリ）のユーザーは本規約に同意しているものとみなします。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 取得する情報
 
-### Markdown
+当アプリでは利便性向上のため、以下のサービスを利用して個人が特定できない範囲でユーザーの情報を取得する場合がございます。
+取得する情報、利用目的、第三者への提供等の詳細につきましては、以下のプライバシーポリシーのリンクよりご確認ください。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- [Google Analytics for Firebase](https://firebase.google.com/policies/analytics)
+- [Firebase Crashlytics](https://firebase.google.com/support/privacy/)
 
-```markdown
-Syntax highlighted code block
+## 個人情報の管理
 
-# Header 1
-## Header 2
-### Header 3
+当アプリは、第三者に個人が特定できる情報をユーザーご本人の同意なく提供することはありません。
 
-- Bulleted
-- List
+## 免責事項
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yudai0308/Honma-Privacy-Plicy/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+アプリの不具合に対して可能な限り改修・改善を行なってまいりますが、利用者が本アプリを利用して生じた損害に関して、開発元は責任を負わないものとします。
